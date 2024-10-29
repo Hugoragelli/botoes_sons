@@ -1,0 +1,1 @@
+A ideia é basicamente ter alguns botões na tela e que cada um deles ao ser clicado, emita um som diferente. A interface foi criada usando HTML e CSS simples, com um pouco de JavaScript para a emissão dos diferentes sons ao clicar nos botões.
